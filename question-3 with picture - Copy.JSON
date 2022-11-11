@@ -6,7 +6,7 @@
       "choice3": "Cat Molly",
       "choice4": "Sim Part",
       "answer": 1,
-      "URL": https://res.cloudinary.com/diaagpm3o/image/upload/v1668182348/samples/Quiz/Q1_gxjrhj.jpg
+      "URL": "https://res.cloudinary.com/diaagpm3o/image/upload/v1668182348/samples/Quiz/Q1_gxjrhj.jpg"
    },
    {
       "question": "What is the correct syntax for referring to an external script called 'xxx.js'?",
@@ -24,7 +24,7 @@
       "choice3": "Bannana",
       "choice4": "Kiwwi",
       "answer": 4,
-      "URL": https://res.cloudinary.com/diaagpm3o/image/upload/v1668182564/samples/Quiz/Q3_x2m0xi.jpg
+      "URL": "https://res.cloudinary.com/diaagpm3o/image/upload/v1668182564/samples/Quiz/Q3_x2m0xi.jpg"
    },
    {
       "question": "Who started WW 2?",
