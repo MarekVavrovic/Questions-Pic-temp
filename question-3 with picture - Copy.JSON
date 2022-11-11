@@ -1,38 +1,38 @@
 [
-  {
-    "question": "Whose picture is this?",
-    "choice1": "Tom Cruise",
-    "choice2": "Matt Hollow",
-    "choice3": "Cat Molly",
-    "choice4": "Sim Part",
-    "answer": 1,
-     "URL": "https://res.cloudinary.com/diaagpm3o/image/upload/v1668182348/samples/Quiz/Q1_gxjrhj.jpg"	
-  },
-  {
-    "question": "What is the correct syntax for referring to an external script called 'xxx.js'?",
-    "choice1": "<script href='xxx.js'>",
-    "choice2": "<script name='xxx.js'>",
-    "choice3": "<script src='xxx.js'>",
-    "choice4": "<script file='xxx.js'>",
-    "answer": 3,
-    "URL": ""		
-  },
-  {
-    "question": "What's on the picture?",
-    "choice1": "Orange",
-    "choice2": "Apple",
-    "choice3": "Bannana",
-    "choice4": "Kiwwi",
-    "answer": 4,
-    "URL": "https://res.cloudinary.com/diaagpm3o/image/upload/v1668182564/samples/Quiz/Q3_x2m0xi.jpg"	
-  },
- {
-    "question": "Who started WW 2?",
-    "choice1": "Russia",
-    "choice2": "Poland",
-    "choice3": "Germany",
-    "choice4": "Spain",
-    "answer": 3,
-    "URL": ""		
-  }
+   {
+      "question": "Whose picture is this?",
+      "choice1": "Tom Cruise",
+      "choice2": "Matt Hollow",
+      "choice3": "Cat Molly",
+      "choice4": "Sim Part",
+      "answer": 1,
+      "URL": "https://res.cloudinary.com/diaagpm3o/image/upload/v1668182348/samples/Quiz/Q1_gxjrhj.jpg"
+   },
+   {
+      "question": "What is the correct syntax for referring to an external script called 'xxx.js'?",
+      "choice1": "<script href='xxx.js'>",
+      "choice2": "<script name='xxx.js'>",
+      "choice3": "<script src='xxx.js'>",
+      "choice4": "<script file='xxx.js'>",
+      "answer": 3,
+      "URL": ""
+   },
+   {
+      "question": "What's on the picture?",
+      "choice1": "Orange",
+      "choice2": "Apple",
+      "choice3": "Bannana",
+      "choice4": "Kiwwi",
+      "answer": 4,
+      "URL": "https://res.cloudinary.com/diaagpm3o/image/upload/v1668182564/samples/Quiz/Q3_x2m0xi.jpg"
+   },
+   {
+      "question": "Who started WW 2?",
+      "choice1": "Russia",
+      "choice2": "Poland",
+      "choice3": "Germany",
+      "choice4": "Spain",
+      "answer": 3,
+      "URL": ""
+   }
 ]
