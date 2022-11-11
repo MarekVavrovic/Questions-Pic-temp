@@ -15,7 +15,7 @@
       "choice3": "<script src='xxx.js'>",
       "choice4": "<script file='xxx.js'>",
       "answer": 3,
-      "URL": 
+      "URL": ""
    },
    {
       "question": "What's on the picture?",
@@ -33,6 +33,6 @@
       "choice3": "Germany",
       "choice4": "Spain",
       "answer": 3,
-      "URL": 
+      "URL": ""
    }
 ]
